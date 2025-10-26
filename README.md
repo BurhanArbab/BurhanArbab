@@ -1,9 +1,12 @@
-<h1>Hi, I'm Burhan Arbabshirani <a
-                                                                                                  href="https://www.linkedin.com/in/burhan-arbabshirani-7147b92b8/">Student at the University of Louisville </a>, <a 
+### Burhan Arbabshirani 
+### Student at the University of Louisville 
+##
+I am a student at the University of Louisville majoring in Computer Information Systems with a track in Cyber Security. This portfolio showcases all of my current projects I have written.
 
-<h2>👨‍💻 Software Development Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+<a href="https://www.linkedin.com/in/burhan-arbabshirani-7147b92b8/"> 
+<img alt="LinkedIn Profile" title= "LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIN-My%20Profile-blue"/<></a>
+<h2>👨‍💻 Coding Projects:</h2>
+- <b>C# Boat Renting Calculator (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
