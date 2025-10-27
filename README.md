@@ -6,32 +6,21 @@ I am a student at the University of Louisville majoring in Computer Information 
 <a href="https://www.linkedin.com/in/burhan-arbabshirani-7147b92b8/"> 
 <img alt="LinkedIn Profile" title= "LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIN-My%20Profile-blue"/<></a>
 <h2>👨‍💻 Coding Projects:</h2>
-- <b>C# Boat Renting Calculator (.NET GUI)<b>
+- <b>C# Boat Renting Calculator (.NET GUI)</b>b>
   - [Boat Renting Calculator](https://github.com/)<br/>
-- <b>C# Car Sale Calculator (.NET GUI)<b>
+- <b>C# Car Sale Calculator (.NET GUI)</b>
 - [Car Sale Calculator](https://github.com/)<br/>
   -<b> Creation of GuideBook Pro Website (WIX) </b> 
- -  [Website](https://scholarssyntax.wixsite.com/guidebook-pro)) <b><i>
+ -  [Website](https://scholarssyntax.wixsite.com/guidebook-pro) <br/>
   
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>👨‍💻 Cybersecurity Projects: </h2>
+- <b>Configuring Firewall Rules with pfSense (pfSense)</b>
+-[pfSense](https://github.com/)<br/>
+- <b>Monitoring and Logging Network Traffic (pfSense)</b>b>
+- [pfSense] (https://github.com)<br/>
+<h2>Coding / Security Skills </h2>
+Excel Certified - Linux - HTML - SQL Programming - C# Programming
 
--
-
-<h2> 🤳 Connect with me:</h2>
-
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Soft Skills </h2>
+Interpersonal SKills - Communication - Problem Solving - Teamwork - Multitasking
