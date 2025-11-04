@@ -7,7 +7,7 @@ I am a student at the University of Louisville majoring in Computer Information 
 <img alt="LinkedIn Profile" title= "LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIN-My%20Profile-blue"/<></a>
 <h2>👨‍💻 Coding Projects:</h2>
 - <b>C# Boat Renting Calculator (.NET GUI)</b>b>
-  - [Boat Renting Calculator](https://github.com/)<br/>
+  - [Boat Renting Calculator](https://github.com/BurhanArbab/C---Boat-Renting-Calculator)<br/>
 - <b>C# Car Sale Calculator (.NET GUI)</b>
 - [Car Sale Calculator](https://github.com/)<br/>
   -<b> Creation of GuideBook Pro Website (WIX) </b> 
