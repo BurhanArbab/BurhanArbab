@@ -9,7 +9,7 @@ I am a student at the University of Louisville majoring in Computer Information 
 - <b>C# Boat Renting Calculator (.NET GUI)</b>b>
   - [Boat Renting Calculator](https://github.com/BurhanArbab/C---Boat-Renting-Calculator)<br/>
 - <b>C# Car Sale Calculator (.NET GUI)</b>
-- [Car Sale Calculator](https://github.com/)<br/>
+- [Car Sale Calculator](https://github.com/BurhanArbab/C-CarSaleCalculator)<br/>
   -<b> Creation of GuideBook Pro Website (WIX) </b> 
  -  [Website](https://scholarssyntax.wixsite.com/guidebook-pro) <br/>
   
