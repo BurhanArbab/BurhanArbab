@@ -18,7 +18,7 @@ I am a student at the University of Louisville majoring in Computer Information 
 - <b>Configuring Firewall Rules with pfSense (pfSense)</b>
 -[pfSense](https://github.com/BurhanArbab/Configuring-Firewall-With-Pfsense)<br/>
 - <b>Monitoring and Logging Network Traffic (pfSense)</b>b>
-- [pfSense] (https://github.com)<br/>
+- [pfSense] (https://github.com/BurhanArbab/Network-Traffic)<br/>
 <h2>Coding / Security Skills </h2>
 Excel Certified - Linux - HTML - SQL Programming - C# Programming
 
