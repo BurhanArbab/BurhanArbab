@@ -15,7 +15,7 @@ I am a student at the University of Louisville majoring in Computer Information 
 - <b>C# Car Sale Calculator (.NET GUI)</b>
 - [Car Sale Calculator](https://github.com/BurhanArbab/C-CarSaleCalculator)<br/>
 - <b>SQL Query Exercise (SQL) </b> 
-- [SQL Query] (<br/>
+- [SQL Query] (https://github.com/BurhanArbab/SQLQuery)<br/>
   -<b> Creation of GuideBook Pro Website (WIX) </b>
  -  [Website](https://scholarssyntax.wixsite.com/guidebook-pro) <br/>
   
