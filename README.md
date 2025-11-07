@@ -10,11 +10,13 @@ I am a student at the University of Louisville majoring in Computer Information 
 - [Cover Letter](https://github.com/BurhanArbab/CoverLetter)
 - [Resume](https://github.com/BurhanArbab/Resume)
 <h2>👨‍💻 Coding Projects:</h2>
-- <b>C# Boat Renting Calculator (.NET GUI)</b>b>
+- <b>C# Boat Renting Calculator (.NET GUI)</b>
   - [Boat Renting Calculator](https://github.com/BurhanArbab/C---Boat-Renting-Calculator)<br/>
 - <b>C# Car Sale Calculator (.NET GUI)</b>
 - [Car Sale Calculator](https://github.com/BurhanArbab/C-CarSaleCalculator)<br/>
-  -<b> Creation of GuideBook Pro Website (WIX) </b> 
+- <b>SQL Query Exercise (SQL) </b> 
+- [SQL Query] (<br/>
+  -<b> Creation of GuideBook Pro Website (WIX) </b>
  -  [Website](https://scholarssyntax.wixsite.com/guidebook-pro) <br/>
   
 
