@@ -5,6 +5,10 @@ I am a student at the University of Louisville majoring in Computer Information 
 
 <a href="https://www.linkedin.com/in/burhan-arbabshirani-7147b92b8/"> 
 <img alt="LinkedIn Profile" title= "LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIN-My%20Profile-blue"/<></a>
+<h2>Cover Letter & Resume</h2>
+
+- Cover Letter
+- Resume
 <h2>👨‍💻 Coding Projects:</h2>
 - <b>C# Boat Renting Calculator (.NET GUI)</b>b>
   - [Boat Renting Calculator](https://github.com/BurhanArbab/C---Boat-Renting-Calculator)<br/>
