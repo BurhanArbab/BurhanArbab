@@ -8,7 +8,7 @@ I am a student at the University of Louisville majoring in Computer Information 
 <h2>Cover Letter & Resume</h2>
 
 - Cover Letter
-- Resume
+- [Resume](https://github.com/BurhanArbab/Resume)
 <h2>👨‍💻 Coding Projects:</h2>
 - <b>C# Boat Renting Calculator (.NET GUI)</b>b>
   - [Boat Renting Calculator](https://github.com/BurhanArbab/C---Boat-Renting-Calculator)<br/>
