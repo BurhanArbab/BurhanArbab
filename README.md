@@ -7,7 +7,7 @@ I am a student at the University of Louisville majoring in Computer Information 
 <img alt="LinkedIn Profile" title= "LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIN-My%20Profile-blue"/<></a>
 <h2>Cover Letter & Resume</h2>
 
-- Cover Letter
+- [Cover Letter](https://github.com/BurhanArbab/CoverLetter)
 - [Resume](https://github.com/BurhanArbab/Resume)
 <h2>👨‍💻 Coding Projects:</h2>
 - <b>C# Boat Renting Calculator (.NET GUI)</b>b>
