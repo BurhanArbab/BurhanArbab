@@ -26,6 +26,7 @@ I am a student at the University of Louisville majoring in Computer Information 
 
 - [System Requirements](https://github.com/BurhanArbab/SystemRequirements)
 - [Use Cases](https://github.com/BurhanArbab/UseCases)
+- [Crow's Foot ERD](https://github.com/BurhanArbab/CrowFootERD)
 - [Case Study Report](https://github.com/BurhanArbab/CaseTarget)
 
 <h2>Coding / Security Skills </h2>
