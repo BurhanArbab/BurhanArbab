@@ -21,12 +21,13 @@ I am a student at the University of Louisville majoring in Computer Information 
 
 - [Configuring Firewall Rules with pfSense](https://github.com/BurhanArbab/Configuring-Firewall-With-Pfsense)<br/>
 - [Monitoring and Logging Network Traffic](https://github.com/BurhanArbab/Network-Traffic)<br/>
-<h2>Coding / Security Skills </h2>
-Excel Certified - Linux - HTML - SQL Programming - C# Programming <br/>
 
 <h2>System and Analysis Design</h2>
 
-- 
+-
+
+<h2>Coding / Security Skills </h2>
+Excel Certified - Linux - HTML - SQL Programming - C# Programming <br/>
 
 
 <h2>Soft Skills </h2>
