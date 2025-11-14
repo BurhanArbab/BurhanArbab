@@ -25,6 +25,7 @@ I am a student at the University of Louisville majoring in Computer Information 
 <h2>System and Analysis Design & Critical Thinking Projects:</h2>
 
 - [System Requirements](https://github.com/BurhanArbab/SystemRequirements)
+- [Case Study Report](https://github.com/BurhanArbab/CaseTarget)
 
 <h2>Coding / Security Skills </h2>
 Excel Certified - Linux - HTML - SQL Programming - C# Programming <br/>
