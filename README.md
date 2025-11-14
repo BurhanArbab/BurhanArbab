@@ -22,7 +22,7 @@ I am a student at the University of Louisville majoring in Computer Information 
 - [Configuring Firewall Rules with pfSense](https://github.com/BurhanArbab/Configuring-Firewall-With-Pfsense)<br/>
 - [Monitoring and Logging Network Traffic](https://github.com/BurhanArbab/Network-Traffic)<br/>
 
-<h2>System and Analysis Design</h2>
+<h2>System and Analysis Design & Critical Thinking Projects:</h2>
 
 - [System Requirements](https://github.com/BurhanArbab/SystemRequirements)
 
