@@ -28,6 +28,7 @@ I am a student at the University of Louisville majoring in Computer Information 
 - [Use Cases](https://github.com/BurhanArbab/UseCases)
 - [Crow's Foot ERD](https://github.com/BurhanArbab/CrowFootERD)
 - [Case Study Report](https://github.com/BurhanArbab/CaseTarget)
+- [Case Study Report](https://github.com/BurhanArbab/SubwayCase)
 
 <h2>Coding / Security Skills </h2>
 Excel Certified - Linux - HTML - SQL Programming - C# Programming <br/>
