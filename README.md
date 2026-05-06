@@ -1,7 +1,6 @@
 ### Burhan Arbabshirani 
-### Student at the University of Louisville 
+### Computer Information Systems Graduate at the University of Louisville 
 ##
-I am a student at the University of Louisville majoring in Computer Information Systems with a track in Cyber Security. This portfolio showcases all of my current projects I have written.
 
 <a href="https://www.linkedin.com/in/burhan-arbabshirani-7147b92b8/"> 
 <img alt="LinkedIn Profile" title= "LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIN-My%20Profile-blue"/<></a>
